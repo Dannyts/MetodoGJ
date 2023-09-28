@@ -1,14 +1,14 @@
-#METODOS NUMERICOS#
+# METODOS NUMERICOS
 
-#Metodo De gauss Jordan con pivoteo total#
+## Metodo De gauss Jordan con pivoteo total
 
-#Equipo 9:#
+### Equipo 9:
 
-Bryans Ibarra Patrick
+  Bryans Ibarra Patrick
 
-Estrada Ruano Francisco
+  Estrada Ruano Francisco
 
-Trejo Santamaria Daniela
+  Trejo Santamaria Daniela
 
-Velazquez Cruz Jose Ernesto
+  Velazquez Cruz Jose Ernesto
 
