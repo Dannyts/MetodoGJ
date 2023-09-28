@@ -27,21 +27,6 @@ void MM(float ma[10][10],int n)
     }
 
 }
-int encabezado(int n_ecu)
-{
-    gotoxy(35,2);
-    printf("METODO DE GAUSS-JORDAN CON PIVOTE TOTAL");
-    for(int i = 1; i < 80; i++)
-        printf("%c", 177);
-
-    gotoxy(5,5);
-    printf("Teclee el Numero de Ecuaciones:");
-    gotoxy(37,5);
-    scanf("%d",&n_ecu);
-    gotoxy(10,8);
-    printf("Captura de Coeficientes del Sistema De Ecuaciones");
-}
-
 void cap_coef(float mat_coef[10][10],int n_ecu)
 {
     int i=0;
